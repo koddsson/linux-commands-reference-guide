@@ -1,4 +1,4 @@
 linux-commands-reference-guide
 ==============================
 
-A reference guide for commands in linux to remeber
+A reference guide for commands in linux to remember.
